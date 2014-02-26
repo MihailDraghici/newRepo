@@ -1,1 +1,1 @@
-/home/student/lab1/blue/hahablue.txt
+../blue/hahablue.txt
