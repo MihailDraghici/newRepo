@@ -1,6 +1,0 @@
-blue1
-blue2
-
-blueeee
-
-it works!
